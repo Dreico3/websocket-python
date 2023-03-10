@@ -1,0 +1,74 @@
+ [
+    {
+      "id": "1",
+      "name": "ditto",
+      "base_experience": 101,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png"
+    },
+    {
+      "id": "2",
+      "name": "bulbasaur",
+      "base_experience": 64,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png"
+    },
+    {
+      "id": "3",
+      "name": "ivysaur",
+      "base_experience": 142,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png"
+    },
+    {
+      "id": "4",
+      "name": "venusaur",
+      "base_experience": 263,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png"
+    },
+    {
+      "id": "5",
+      "name": "charmander",
+      "base_experience": 62,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png"
+    },
+    {
+      "id": "6",
+      "name": "charmeleon",
+      "base_experience": 142,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png"
+    },
+    {
+      "id": "7",
+      "name": "charizard",
+      "base_experience": 267,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png"
+    },
+    {
+      "id": "8",
+      "name": "squirtle",
+      "base_experience": 63,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png"
+    },
+    {
+      "id": "9",
+      "name": "wartortle",
+      "base_experience": 142,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png"
+    },
+    {
+      "id": "10",
+      "name": "blastoise",
+      "base_experience": 265,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png"
+    },
+    {
+      "id": "11",
+      "name": "caterpie",
+      "base_experience": 39,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png"
+    },
+    {
+      "id": "12",
+      "name": "metapod",
+      "base_experience": 72,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png"
+    }
+  ]
